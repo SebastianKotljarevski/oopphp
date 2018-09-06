@@ -31,8 +31,8 @@ body {
 .outer-wrap-header {
     max-width: 100%;
     min-height: 2em;
-    background-color: #000;
-    color: #fff;
+    background-color: green;
+    color: green;
 }
 
 .outer-wrap-header {
@@ -100,7 +100,7 @@ h1 {
 .outer-wrap-footer {
     max-width: 100%;
     min-height: 10em;
-    background-color: #424242;
+    background-color: green;
     color: #fff;
     padding: 1em 0;
 }
