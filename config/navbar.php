@@ -38,4 +38,9 @@ return [
         "url" => "gissa",
         "title" => "Gissa",
     ],
+    [
+        "text" => "Dice100",
+        "url" => "dice100",
+        "title" => "Dice100",
+    ],
 ];
