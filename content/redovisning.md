@@ -51,7 +51,29 @@ Då det har varit sommarlov och ett tag sedan man jobbade med anax så får min 
 Kmom03
 -------------------------
 
-Här är redovisningstexten
+Har du tidigare erfarenheter av att skriva kod som testar annan kod?
+
+Nej, det har jag aldrig gjort tidigare. Detta var min första gång.
+
+Hur ser du på begreppen enhetstestning och att skriva testbar kod?
+
+Det är väl något som är väldigt viktigt. Om man skriver kod tex utanför skolan och ett riktigt projekt för ett företåg då koden måste fungera korrekt så är det nog väldigt värdefullt med enhetstestning och att skriva en kod som är testbar.
+
+Förklara kort begreppen white/grey/black box testing samt positiva och negativa tester, med dina egna ord.
+
+white box testing är när en test metod är skriven och koden som testas är känd för testaren. Det är oftast utvecklare som gör detta. Black box testing är när test metoted är skriven och koden som testar är inte känd för testaren, och detta är oftast självständiga testare som gör detta. Gray box testing är en kombination av white box testing och black box. Anledningen till testet är att hitta fel(om det finns) på grund av felaktik struktur eller felaktik användning av applikationer.
+
+Berätta om hur du löste uppgiften med Tärningsspelet 100, hur du tänkte, planerade och utförde uppgiften samt hur du organiserade din kod?
+
+Tänkte väl på nästan samma sätt som med Gissa uppgifterna. Bygga en tärning i klassen, sedan en till klass för "dicehand". Sedan så använde jag mig av POST och SESSION i routen för att ta han om variabler.
+
+Hur väl lyckades du testa tärningsspelet 100?
+
+Det gick bra tycker jag. Metoderna var inte så svåra att testa.
+
+Vilken är din TIL för detta kmom?
+
+Min TIL för detta kmom för väl bli test biten. Det är något jag inte gjort tidigare men tror jag greppade delen om testning helt ok.
 
 
 
